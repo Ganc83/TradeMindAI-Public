@@ -1,0 +1,6 @@
+ccxt
+matplotlib
+numpy
+pandas
+plyer
+ttkbootstrap
