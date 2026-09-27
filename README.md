@@ -75,3 +75,19 @@ Bestimmte interne Strategieparameter und private Laufzeitdaten wurden bewusst ni
 ## Hinweis
 
 TradeMind AI ist ein persönliches Softwareprojekt und keine Anlageberatung.
+
+## Screenshots
+
+> Screenshots show simulated/paper-trading and backtest data for demonstration purposes.
+
+### Trading Dashboard
+
+![Trading Dashboard](screenshots/dashboard_overview.png)
+
+### Candlestick Chart & Technical Analysis
+
+![Candlestick Chart](screenshots/candlestick_chart.png)
+
+### Analytics & Backtest Overview
+
+![Analytics Overview](screenshots/analytics_overview.png)
